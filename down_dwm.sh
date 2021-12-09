@@ -1,6 +1,3 @@
-mkdir git-downloads && cd git-downloads
-git clone https://github.com/timofeyr/dwm
-cd dwm
 cp -r dwm ~
 cp -r st ~
 cp -r dwm-bar ~
